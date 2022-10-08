@@ -930,6 +930,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: EmptySlot3
       objectReference: {fileID: 0}
+    - target: {fileID: 195257683210033426, guid: 0c8c81de96056dd499c16c2b1f31b465, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 057861472d4aa2e47b513eb51bd3175b, type: 2}
     - target: {fileID: 195257683210033428, guid: 0c8c81de96056dd499c16c2b1f31b465, type: 3}
       propertyPath: m_RootOrder
       value: 2
